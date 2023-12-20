@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCEmm4/rjQdqiMwy17pQKbBEJCznSlbgejl8S8m04kn8baWqe8Cjsz0GLHQs2Up4iQb3C+zC8OopWKfn7ZzyvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\Desktop\\C#\\ПКС7\\ПКС7\\ПКС7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
